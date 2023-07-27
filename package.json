@@ -1,0 +1,26 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "renzarian language translator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fundi1330/translator.git"
+  },
+  "keywords": [
+    "translator"
+  ],
+  "author": "Fundi1330",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fundi1330/translator/issues"
+  },
+  "homepage": "https://github.com/Fundi1330/translator#readme",
+  "dependencies": {
+    "@google-cloud/translate": "^7.2.2",
+    "deepl-node": "^1.10.2"
+  }
+}
